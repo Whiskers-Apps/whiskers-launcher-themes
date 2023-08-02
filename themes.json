@@ -1,7 +1,282 @@
 [
   {
-    "id": "catppuccin-mocha-blue",
     "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
-    "file": "themes/mocha/mocha-blue.json"
+    "file": "themes/mocha/Mocha-Lavender.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/mocha/Mocha-Lavender.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/mocha/Mocha-Blue.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/mocha/Mocha-Blue.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/mocha/Mocha-Sapphire.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/mocha/Mocha-Sapphire.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/mocha/Mocha-Sky.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/mocha/Mocha-Sky.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/mocha/Mocha-Teal.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/mocha/Mocha-Teal.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/mocha/Mocha-Green.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/mocha/Mocha-Green.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/mocha/Mocha-Yellow.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/mocha/Mocha-Yellow.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/mocha/Mocha-Peach.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/mocha/Mocha-Peach.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/mocha/Mocha-Maroon.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/mocha/Mocha-Maroon.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/mocha/Mocha-Red.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/mocha/Mocha-Red.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/mocha/Mocha-Mauve.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/mocha/Mocha-Mauve.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/mocha/Mocha-Pink.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/mocha/Mocha-Pink.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/mocha/Mocha-Flamingo.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/mocha/Mocha-Flamingo.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/mocha/Mocha-Rosewater.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/mocha/Mocha-Rosewater.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/macchiato/Macchiato-Lavender.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/macchiato/Macchiato-Lavender.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/macchiato/Macchiato-Blue.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/macchiato/Macchiato-Blue.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/macchiato/Macchiato-Sapphire.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/macchiato/Macchiato-Sapphire.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/macchiato/Macchiato-Sky.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/macchiato/Macchiato-Sky.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/macchiato/Macchiato-Teal.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/macchiato/Macchiato-Teal.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/macchiato/Macchiato-Green.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/macchiato/Macchiato-Green.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/macchiato/Macchiato-Yellow.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/macchiato/Macchiato-Yellow.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/macchiato/Macchiato-Peach.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/macchiato/Macchiato-Peach.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/macchiato/Macchiato-Maroon.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/macchiato/Macchiato-Maroon.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/macchiato/Macchiato-Red.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/macchiato/Macchiato-Red.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/macchiato/Macchiato-Mauve.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/macchiato/Macchiato-Mauve.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/macchiato/Macchiato-Pink.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/macchiato/Macchiato-Pink.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/macchiato/Macchiato-Flamingo.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/macchiato/Macchiato-Flamingo.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/macchiato/Macchiato-Rosewater.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/macchiato/Macchiato-Rosewater.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/frappe/Frappe-Lavender.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/frappe/Frappe-Lavender.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/frappe/Frappe-Blue.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/frappe/Frappe-Blue.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/frappe/Frappe-Sapphire.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/frappe/Frappe-Sapphire.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/frappe/Frappe-Sky.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/frappe/Frappe-Sky.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/frappe/Frappe-Teal.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/frappe/Frappe-Teal.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/frappe/Frappe-Green.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/frappe/Frappe-Green.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/frappe/Frappe-Yellow.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/frappe/Frappe-Yellow.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/frappe/Frappe-Peach.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/frappe/Frappe-Peach.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/frappe/Frappe-Maroon.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/frappe/Frappe-Maroon.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/frappe/Frappe-Red.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/frappe/Frappe-Red.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/frappe/Frappe-Mauve.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/frappe/Frappe-Mauve.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/frappe/Frappe-Pink.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/frappe/Frappe-Pink.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/frappe/Frappe-Flamingo.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/frappe/Frappe-Flamingo.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/frappe/Frappe-Rosewater.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/frappe/Frappe-Rosewater.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/latte/Latte-Lavender.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/latte/Latte-Lavender.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/latte/Latte-Blue.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/latte/Latte-Blue.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/latte/Latte-Sapphire.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/latte/Latte-Sapphire.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/latte/Latte-Sky.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/latte/Latte-Sky.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/latte/Latte-Teal.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/latte/Latte-Teal.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/latte/Latte-Green.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/latte/Latte-Green.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/latte/Latte-Yellow.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/latte/Latte-Yellow.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/latte/Latte-Peach.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/latte/Latte-Peach.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/latte/Latte-Maroon.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/latte/Latte-Maroon.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/latte/Latte-Red.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/latte/Latte-Red.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/latte/Latte-Mauve.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/latte/Latte-Mauve.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/latte/Latte-Pink.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/latte/Latte-Pink.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/latte/Latte-Flamingo.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/latte/Latte-Flamingo.png"
+  },
+  {
+    "repo": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes",
+    "file": "themes/latte/Latte-Rosewater.json",
+    "preview": "https://github.com/lighttigerXIV/simple-kl-catppuccin-themes/blob/master/previews/latte/Latte-Rosewater.png"
   }
 ]

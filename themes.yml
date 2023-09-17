@@ -1,0 +1,224 @@
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/mocha/mocha-lavender.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/mocha/mocha-lavender.png
+  name: Catppuccin Mocha Lavender
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/mocha/mocha-blue.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/mocha/mocha-blue.png
+  name: Catppuccin Mocha Blue
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/mocha/mocha-sapphire.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/mocha/mocha-sapphire.png
+  name: Catppuccin Mocha Sapphire
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/mocha/mocha-sky.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/mocha/mocha-sky.png
+  name: Catppuccin Mocha Sky
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/mocha/mocha-teal.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/mocha/mocha-teal.png
+  name: Catppuccin Mocha Teal
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/mocha/mocha-green.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/mocha/mocha-green.png
+  name: Catppuccin Mocha Green
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/mocha/mocha-yellow.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/mocha/mocha-yellow.png
+  name: Catppuccin Mocha Yellow
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/mocha/mocha-peach.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/mocha/mocha-peach.png
+  name: Catppuccin Mocha Peach
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/mocha/mocha-maroon.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/mocha/mocha-maroon.png
+  name: Catppuccin Mocha Maroon
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/mocha/mocha-red.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/mocha/mocha-red.png
+  name: Catppuccin Mocha Red
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/mocha/mocha-mauve.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/mocha/mocha-mauve.png
+  name: Catppuccin Mocha Mauve
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/mocha/mocha-pink.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/mocha/mocha-pink.png
+  name: Catppuccin Mocha Pink
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/mocha/mocha-flamingo.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/mocha/mocha-flamingo.png
+  name: Catppuccin Mocha Flamingo
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/mocha/mocha-rosewater.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/mocha/mocha-rosewater.png
+  name: Catppuccin Mocha Rosewater
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/macchiato/macchiato-lavender.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/macchiato/macchiato-lavender.png
+  name: Catppuccin Macchiato Lavender
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/macchiato/macchiato-blue.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/macchiato/macchiato-blue.png
+  name: Catppuccin Macchiato Blue
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/macchiato/macchiato-sapphire.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/macchiato/macchiato-sapphire.png
+  name: Catppuccin Macchiato Sapphire
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/macchiato/macchiato-sky.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/macchiato/macchiato-sky.png
+  name: Catppuccin Macchiato Sky
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/macchiato/macchiato-teal.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/macchiato/macchiato-teal.png
+  name: Catppuccin Macchiato Teal
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/macchiato/macchiato-green.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/macchiato/macchiato-green.png
+  name: Catppuccin Macchiato Green
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/macchiato/macchiato-yellow.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/macchiato/macchiato-yellow.png
+  name: Catppuccin Macchiato Yellow
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/macchiato/macchiato-peach.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/macchiato/macchiato-peach.png
+  name: Catppuccin Macchiato Peach
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/macchiato/macchiato-maroon.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/macchiato/macchiato-maroon.png
+  name: Catppuccin Macchiato Maroon
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/macchiato/macchiato-red.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/macchiato/macchiato-red.png
+  name: Catppuccin Macchiato Red
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/macchiato/macchiato-mauve.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/macchiato/macchiato-mauve.png
+  name: Catppuccin Macchiato Mauve
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/macchiato/macchiato-pink.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/macchiato/macchiato-pink.png
+  name: Catppuccin Macchiato Pink
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/macchiato/macchiato-flamingo.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/macchiato/macchiato-flamingo.png
+  name: Catppuccin Macchiato Flamingo
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/macchiato/macchiato-rosewater.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/macchiato/macchiato-rosewater.png
+  name: Catppuccin Macchiato Rosewater
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/frappe/frappe-lavender.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/frappe/frappe-lavender.png
+  name: Catppuccin Frappe Lavender
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/frappe/frappe-blue.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/frappe/frappe-blue.png
+  name: Catppuccin Frappe Blue
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/frappe/frappe-sapphire.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/frappe/frappe-sapphire.png
+  name: Catppuccin Frappe Sapphire
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/frappe/frappe-sky.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/frappe/frappe-sky.png
+  name: Catppuccin Frappe Sky
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/frappe/frappe-teal.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/frappe/frappe-teal.png
+  name: Catppuccin Frappe Teal
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/frappe/frappe-green.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/frappe/frappe-green.png
+  name: Catppuccin Frappe Green
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/frappe/frappe-yellow.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/frappe/frappe-yellow.png
+  name: Catppuccin Frappe Yellow
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/frappe/frappe-peach.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/frappe/frappe-peach.png
+  name: Catppuccin Frappe Peach
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/frappe/frappe-maroon.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/frappe/frappe-maroon.png
+  name: Catppuccin Frappe Maroon
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/frappe/frappe-red.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/frappe/frappe-red.png
+  name: Catppuccin Frappe Red
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/frappe/frappe-mauve.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/frappe/frappe-mauve.png
+  name: Catppuccin Frappe Mauve
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/frappe/frappe-pink.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/frappe/frappe-pink.png
+  name: Catppuccin Frappe Pink
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/frappe/frappe-flamingo.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/frappe/frappe-flamingo.png
+  name: Catppuccin Frappe Flamingo
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/frappe/frappe-rosewater.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/frappe/frappe-rosewater.png
+  name: Catppuccin Frappe Rosewater
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/latte/latte-lavender.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/latte/latte-lavender.png
+  name: Catppuccin Latte Lavender
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/latte/latte-blue.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/latte/latte-blue.png
+  name: Catppuccin Latte Blue
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/latte/latte-sapphire.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/latte/latte-sapphire.png
+  name: Catppuccin Latte Sapphire
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/latte/latte-sky.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/latte/latte-sky.png
+  name: Catppuccin Latte Sky
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/latte/latte-teal.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/latte/latte-teal.png
+  name: Catppuccin Latte Teal
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/latte/latte-green.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/latte/latte-green.png
+  name: Catppuccin Latte Green
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/latte/latte-yellow.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/latte/latte-yellow.png
+  name: Catppuccin Latte Yellow
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/latte/latte-peach.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/latte/latte-peach.png
+  name: Catppuccin Latte Peach
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/latte/latte-maroon.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/latte/latte-maroon.png
+  name: Catppuccin Latte Maroon
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/latte/latte-red.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/latte/latte-red.png
+  name: Catppuccin Latte Red
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/latte/latte-mauve.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/latte/latte-mauve.png
+  name: Catppuccin Latte Mauve
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/latte/latte-pink.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/latte/latte-pink.png
+  name: Catppuccin Latte Pink
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/latte/latte-flamingo.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/latte/latte-flamingo.png
+  name: Catppuccin Latte Flamingo
+- repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
+  file: themes/latte/latte-rosewater.yml
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/latte/latte-rosewater.png
+  name: Catppuccin Latte Rosewater

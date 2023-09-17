@@ -4,7 +4,7 @@
   name: Catppuccin Mocha Lavender
 - repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
   file: themes/mocha/mocha-blue.yml
-  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/mocha/mocha-blue.png
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/mocha/Mocha-Blue.png
   name: Catppuccin Mocha Blue
 - repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
   file: themes/mocha/mocha-sapphire.yml

@@ -56,59 +56,59 @@
   name: Catppuccin Mocha Rosewater
 - repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
   file: themes/macchiato/macchiato-lavender.yml
-  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/macchiato/macchiato-lavender.png
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/macchiato/Macchiato-Lavender.png
   name: Catppuccin Macchiato Lavender
 - repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
   file: themes/macchiato/macchiato-blue.yml
-  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/macchiato/macchiato-blue.png
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/macchiato/Macchiato-Blue.png
   name: Catppuccin Macchiato Blue
 - repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
   file: themes/macchiato/macchiato-sapphire.yml
-  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/macchiato/macchiato-sapphire.png
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/macchiato/Macchiato-Sapphire.png
   name: Catppuccin Macchiato Sapphire
 - repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
   file: themes/macchiato/macchiato-sky.yml
-  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/macchiato/macchiato-sky.png
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/macchiato/Macchiato-Sky.png
   name: Catppuccin Macchiato Sky
 - repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
   file: themes/macchiato/macchiato-teal.yml
-  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/macchiato/macchiato-teal.png
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/macchiato/Macchiato-Teal.png
   name: Catppuccin Macchiato Teal
 - repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
   file: themes/macchiato/macchiato-green.yml
-  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/macchiato/macchiato-green.png
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/macchiato/Macchiato-Green.png
   name: Catppuccin Macchiato Green
 - repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
   file: themes/macchiato/macchiato-yellow.yml
-  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/macchiato/macchiato-yellow.png
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/macchiato/Macchiato-Yellow.png
   name: Catppuccin Macchiato Yellow
 - repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
   file: themes/macchiato/macchiato-peach.yml
-  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/macchiato/macchiato-peach.png
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/macchiato/Macchiato-Peach.png
   name: Catppuccin Macchiato Peach
 - repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
   file: themes/macchiato/macchiato-maroon.yml
-  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/macchiato/macchiato-maroon.png
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/macchiato/Macchiato-Maroon.png
   name: Catppuccin Macchiato Maroon
 - repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
   file: themes/macchiato/macchiato-red.yml
-  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/macchiato/macchiato-red.png
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/macchiato/Macchiato-Red.png
   name: Catppuccin Macchiato Red
 - repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
   file: themes/macchiato/macchiato-mauve.yml
-  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/macchiato/macchiato-mauve.png
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/macchiato/Macchiato-Mauve.png
   name: Catppuccin Macchiato Mauve
 - repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
   file: themes/macchiato/macchiato-pink.yml
-  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/macchiato/macchiato-pink.png
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/macchiato/Macchiato-Pink.png
   name: Catppuccin Macchiato Pink
 - repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
   file: themes/macchiato/macchiato-flamingo.yml
-  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/macchiato/macchiato-flamingo.png
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/macchiato/Macchiato-Flamingo.png
   name: Catppuccin Macchiato Flamingo
 - repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
   file: themes/macchiato/macchiato-rosewater.yml
-  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/macchiato/macchiato-rosewater.png
+  preview: https://raw.githubusercontent.com/lighttigerXIV/simple-kl-catppuccin-themes/master/previews/macchiato/Macchiato-Rosewater.png
   name: Catppuccin Macchiato Rosewater
 - repo: https://github.com/lighttigerXIV/simple-kl-catppuccin-themes
   file: themes/frappe/frappe-lavender.yml

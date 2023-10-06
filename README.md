@@ -1,2 +1,3 @@
-# simple-kl-themes-hub
-A repo containing themes for Simple Keyboard Launcher
+# Simple Keyboard Launcher Themes
+## Themes
+- [🐱 Catppuccin](https://github.com/lighttigerXIV/simple-kl-catppuccin-themes)

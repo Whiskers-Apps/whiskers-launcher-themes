@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Catppuccin Latte",
+    "repo": "https://github.com/lighttigerXIV/whiskers-launcher-catppuccin-themes",
+    "preview": "https://github.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/blob/master/previews/latte/Latte-Yellow.png",
+    "variants": [
+      {
+        "name": "Latte Rosewater",
+        "preview": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/previews/latte/Latte-Rosewater.png",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/latte/Latte-Rosewater.json"
+      },
+      {
+        "name": "Latte Flamingo",
+        "preview": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/previews/latte/Latte-Flamingo.png",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/latte/Latte-Flamingo.json"
+      },
+      {
+        "name": "Latte Pink",
+        "preview": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/previews/latte/Latte-Pink.png",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/latte/Latte-Pink.json"
+      },
+      {
+        "name": "Latte Mauve",
+        "preview": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/previews/latte/Latte-Mauve.png",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/latte/Latte-Mauve.json"
+      },
+      {
+        "name": "Latte Red",
+        "preview": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/previews/latte/Latte-Red.png",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/latte/Latte-Red.json"
+      },
+      {
+        "name": "Latte Maroon",
+        "preview": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/previews/latte/Latte-Maroon.png",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/latte/Latte-Maroon.json"
+      },
+      {
+        "name": "Latte Peach",
+        "preview": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/previews/latte/Latte-Peach.png",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/latte/Latte-Peach.json"
+      },
+      {
+        "name": "Latte Yellow",
+        "preview": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/previews/latte/Latte-Yellow.png",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/latte/Latte-Yellow.json"
+      },
+      {
+        "name": "Latte Green",
+        "preview": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/previews/latte/Latte-Green.png",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/latte/Latte-Green.json"
+      },
+      {
+        "name": "Latte Teal",
+        "preview": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/previews/latte/Latte-Teal.png",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/latte/Latte-Teal.json"
+      },
+      {
+        "name": "Latte Sky",
+        "preview": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/previews/latte/Latte-Sky.png",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/latte/Latte-Sky.json"
+      },
+      {
+        "name": "Latte Sapphire",
+        "preview": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/previews/latte/Latte-Sapphire.png",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/latte/Latte-Sapphire.json"
+      },
+      {
+        "name": "Latte Blue",
+        "preview": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/previews/latte/Latte-Blue.png",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/latte/Latte-Blue.json"
+      },
+      {
+        "name": "Latte Lavender",
+        "preview": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/previews/latte/Latte-Lavender.png",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/latte/Latte-Lavender.json"
+      }
+    ]
+  }
+]

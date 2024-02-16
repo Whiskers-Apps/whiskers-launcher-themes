@@ -2,7 +2,7 @@
   {
     "name": "Catppuccin Latte",
     "repo": "https://github.com/lighttigerXIV/whiskers-launcher-catppuccin-themes",
-    "preview": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/previews/latte/Latte-Blue.png",
+    "preview": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/previews/Latte.png",
     "variants": [
       {
         "name": "Latte Rosewater",
@@ -59,6 +59,195 @@
       {
         "name": "Latte Lavender",
         "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/latte/Latte-Lavender.json"
+      }
+    ]
+  },
+  {
+    "name": "Catppuccin Frappe",
+    "repo": "https://github.com/lighttigerXIV/whiskers-launcher-catppuccin-themes",
+    "preview": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/previews/Frappe.png",
+    "variants": [
+      {
+        "name": "Frappe Rosewater",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/frappe/Frappe-Rosewater.json"
+      },
+      {
+        "name": "Frappe Flamingo",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/frappe/Frappe-Flamingo.json"
+      },
+      {
+        "name": "Frappe Pink",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/frappe/Frappe-Pink.json"
+      },
+      {
+        "name": "Frappe Mauve",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/frappe/Frappe-Mauve.json"
+      },
+      {
+        "name": "Frappe Red",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/frappe/Frappe-Red.json"
+      },
+      {
+        "name": "Frappe Maroon",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/frappe/Frappe-Maroon.json"
+      },
+      {
+        "name": "Frappe Peach",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/frappe/Frappe-Peach.json"
+      },
+      {
+        "name": "Frappe Yellow",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/frappe/Frappe-Yellow.json"
+      },
+      {
+        "name": "Frappe Green",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/frappe/Frappe-Green.json"
+      },
+      {
+        "name": "Frappe Teal",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/frappe/Frappe-Teal.json"
+      },
+      {
+        "name": "Frappe Sky",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/frappe/Frappe-Sky.json"
+      },
+      {
+        "name": "Frappe Sapphire",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/frappe/Frappe-Sapphire.json"
+      },
+      {
+        "name": "Frappe Blue",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/frappe/Frappe-Blue.json"
+      },
+      {
+        "name": "Frappe Lavender",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/frappe/Frappe-Lavender.json"
+      }
+    ]
+  },
+  {
+    "name": "Catppuccin Macchiato",
+    "repo": "https://github.com/lighttigerXIV/whiskers-launcher-catppuccin-themes",
+    "preview": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/previews/Macchiato.png",
+    "variants": [
+      {
+        "name": "Macchiato Rosewater",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/macchiato/Macchiato-Rosewater.json"
+      },
+      {
+        "name": "Macchiato Flamingo",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/macchiato/Macchiato-Flamingo.json"
+      },
+      {
+        "name": "Macchiato Pink",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/macchiato/Macchiato-Pink.json"
+      },
+      {
+        "name": "Macchiato Mauve",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/macchiato/Macchiato-Mauve.json"
+      },
+      {
+        "name": "Macchiato Red",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/macchiato/Macchiato-Red.json"
+      },
+      {
+        "name": "Macchiato Maroon",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/macchiato/Macchiato-Maroon.json"
+      },
+      {
+        "name": "Macchiato Peach",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/macchiato/Macchiato-Peach.json"
+      },
+      {
+        "name": "Macchiato Yellow",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/macchiato/Macchiato-Yellow.json"
+      },
+      {
+        "name": "Macchiato Green",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/macchiato/Macchiato-Green.json"
+      },
+      {
+        "name": "Macchiato Teal",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/macchiato/Macchiato-Teal.json"
+      },
+      {
+        "name": "Macchiato Sky",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/macchiato/Macchiato-Sky.json"
+      },
+      {
+        "name": "Macchiato Sapphire",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/macchiato/Macchiato-Sapphire.json"
+      },
+      {
+        "name": "Macchiato Blue",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/macchiato/Macchiato-Blue.json"
+      },
+      {
+        "name": "Macchiato Lavender",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/macchiato/Macchiato-Lavender.json"
+      }
+    ]
+  },
+  {
+    "name": "Catppuccin Mocha",
+    "repo": "https://github.com/lighttigerXIV/whiskers-launcher-catppuccin-themes",
+    "preview": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/previews/Mocha.png",
+    "variants": [
+      {
+        "name": "Mocha Rosewater",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/mocha/Mocha-Rosewater.json"
+      },
+      {
+        "name": "Mocha Flamingo",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/mocha/Mocha-Flamingo.json"
+      },
+      {
+        "name": "Mocha Pink",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/mocha/Mocha-Pink.json"
+      },
+      {
+        "name": "Mocha Mauve",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/mocha/Mocha-Mauve.json"
+      },
+      {
+        "name": "Mocha Red",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/mocha/Mocha-Red.json"
+      },
+      {
+        "name": "Mocha Maroon",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/mocha/Mocha-Maroon.json"
+      },
+      {
+        "name": "Mocha Peach",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/mocha/Mocha-Peach.json"
+      },
+      {
+        "name": "Mocha Yellow",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/mocha/Mocha-Yellow.json"
+      },
+      {
+        "name": "Mocha Green",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/mocha/Mocha-Green.json"
+      },
+      {
+        "name": "Mocha Teal",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/mocha/Mocha-Teal.json"
+      },
+      {
+        "name": "Mocha Sky",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/mocha/Mocha-Sky.json"
+      },
+      {
+        "name": "Mocha Sapphire",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/mocha/Mocha-Sapphire.json"
+      },
+      {
+        "name": "Mocha Blue",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/mocha/Mocha-Blue.json"
+      },
+      {
+        "name": "Mocha Lavender",
+        "file": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/themes/mocha/Mocha-Lavender.json"
       }
     ]
   }

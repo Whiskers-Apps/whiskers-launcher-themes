@@ -1,5 +1,6 @@
 [
   {
+    "id": "catppuccin-latte",
     "name": "Catppuccin Latte",
     "repo": "https://github.com/lighttigerXIV/whiskers-launcher-catppuccin-themes",
     "preview": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/previews/Latte.png",
@@ -63,6 +64,7 @@
     ]
   },
   {
+    "id": "catppuccin-frappe",
     "name": "Catppuccin Frappe",
     "repo": "https://github.com/lighttigerXIV/whiskers-launcher-catppuccin-themes",
     "preview": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/previews/Frappe.png",
@@ -126,6 +128,7 @@
     ]
   },
   {
+    "id": "catppuccin-macchiato",
     "name": "Catppuccin Macchiato",
     "repo": "https://github.com/lighttigerXIV/whiskers-launcher-catppuccin-themes",
     "preview": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/previews/Macchiato.png",
@@ -189,6 +192,7 @@
     ]
   },
   {
+    "id": "catppuccin-mocha",
     "name": "Catppuccin Mocha",
     "repo": "https://github.com/lighttigerXIV/whiskers-launcher-catppuccin-themes",
     "preview": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-catppuccin-themes/master/previews/Mocha.png",

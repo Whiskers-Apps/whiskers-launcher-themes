@@ -1,5 +1,69 @@
 [
   {
+    "id": "whiskers-panther",
+    "name": "Whiskers Panther",
+    "repo": "https://github.com/Whiskers-Color-Scheme/whiskers-launcher",
+    "preview": "https://raw.githubusercontent.com/Whiskers-Color-Scheme/whiskers-launcher/master/panther-preview.webp",
+    "variants":[
+      {
+        "name": "Banana",
+        "file": "https://raw.githubusercontent.com/Whiskers-Color-Scheme/whiskers-launcher/master/Panther/Banana.json"
+      },
+      {
+        "name": "Blueberry",
+        "file": "https://raw.githubusercontent.com/Whiskers-Color-Scheme/whiskers-launcher/master/Panther/Blueberry.json"
+      },
+      {
+        "name": "Cherry",
+        "file": "https://raw.githubusercontent.com/Whiskers-Color-Scheme/whiskers-launcher/master/Panther/Cherry.json"
+      },
+      {
+        "name": "Grape",
+        "file": "https://raw.githubusercontent.com/Whiskers-Color-Scheme/whiskers-launcher/master/Panther/Grape.json"
+      },
+      {
+        "name": "Kiwi",
+        "file": "https://raw.githubusercontent.com/Whiskers-Color-Scheme/whiskers-launcher/master/Panther/Kiwi.json"
+      },
+      {
+        "name": "Tangerine",
+        "file": "https://raw.githubusercontent.com/Whiskers-Color-Scheme/whiskers-launcher/master/Panther/Tangerine.json"
+      }
+    ]
+  },
+  {
+    "id": "whiskers-tiger",
+    "name": "Whiskers Tiger",
+    "repo": "https://github.com/Whiskers-Color-Scheme/whiskers-launcher",
+    "preview": "https://raw.githubusercontent.com/Whiskers-Color-Scheme/whiskers-launcher/master/tiger-preview.webp",
+    "variants":[
+      {
+        "name": "Banana",
+        "file": "https://raw.githubusercontent.com/Whiskers-Color-Scheme/whiskers-launcher/master/Tiger/Banana.json"
+      },
+      {
+        "name": "Blueberry",
+        "file": "https://raw.githubusercontent.com/Whiskers-Color-Scheme/whiskers-launcher/master/Tiger/Blueberry.json"
+      },
+      {
+        "name": "Cherry",
+        "file": "https://raw.githubusercontent.com/Whiskers-Color-Scheme/whiskers-launcher/master/Tiger/Cherry.json"
+      },
+      {
+        "name": "Grape",
+        "file": "https://raw.githubusercontent.com/Whiskers-Color-Scheme/whiskers-launcher/master/Tiger/Grape.json"
+      },
+      {
+        "name": "Kiwi",
+        "file": "https://raw.githubusercontent.com/Whiskers-Color-Scheme/whiskers-launcher/master/Tiger/Kiwi.json"
+      },
+      {
+        "name": "Tangerine",
+        "file": "https://raw.githubusercontent.com/Whiskers-Color-Scheme/whiskers-launcher/master/Tiger/Tangerine.json"
+      }
+    ]
+  },
+  {
     "id": "catppuccin-latte",
     "name": "Catppuccin Latte",
     "repo": "https://github.com/lighttigerXIV/whiskers-launcher-catppuccin-themes",
